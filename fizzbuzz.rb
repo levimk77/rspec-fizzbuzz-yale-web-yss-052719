@@ -2,6 +2,10 @@
 # See README.md for instructions on how to do this
 
 
-def 'fizzbuzz'
-
+def 'fizzbuzz' (int)
+ if int%3 == 0 
+   "fizz"
+   elsif int%5 ==0
+   "buzz"
+ elsif ()
 end
